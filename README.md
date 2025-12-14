@@ -1,1 +1,2 @@
 # INVERTER
+This project focuses on understanding and developing a three-phase inverter that converts DC power into three-phase AC output. As an intern, I worked on studying inverter operation, PWM control techniques, and basic power electronic components such as MOSFETs/IGBTs. The project helped me gain hands-on knowledge of motor drives, power electronics, and inverter-based systems used in industrial and renewable energy applications.
